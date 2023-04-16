@@ -45,6 +45,7 @@ IIT KHARAGPUR
 
 Why not remove the commit altogether? \
 This prevents Git from losing history, which is important for the integrity of your revision history and for reliable collaboration.
+hgvgctycvgvhjhj dummy text.
 
 ##  Task 4
 
